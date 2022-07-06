@@ -1,0 +1,17 @@
+.col2 {
+    width: 50%;
+}
+
+.bottle-img {
+    background-color: lightgreen;
+}
+
+.bottle-img img {
+    margin: 10px 0px 10px 10%;
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+
+.row {
+    display: flex;
+}
